@@ -1,0 +1,15 @@
+PODS:
+  - IndoorAtlas (2.4.2)
+  - QRCodeReaderViewController (4.0.2)
+
+DEPENDENCIES:
+  - IndoorAtlas
+  - QRCodeReaderViewController (~> 4.0)
+
+SPEC CHECKSUMS:
+  IndoorAtlas: b1bb1b96242e04e5788d31b3d92f30459d5b0765
+  QRCodeReaderViewController: e8f27d035b3e72b1d4b1c61ff66458287e3be0ff
+
+PODFILE CHECKSUM: 3e704eb4e7c77403f7300a32e0750f0aba5175aa
+
+COCOAPODS: 1.2.1

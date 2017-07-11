@@ -1,0 +1,6 @@
+framework module Pods_Inside_building {
+  umbrella header "Pods-Inside building-umbrella.h"
+
+  export *
+  module * { export * }
+}
