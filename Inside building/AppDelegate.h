@@ -7,9 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
+@import IndoorAtlas;
+@interface AppDelegate : UIResponder <UIApplicationDelegate, IALocationManagerDelegate>
+@property (nonatomic, strong) IALocationManager *manager;
 @property (strong, nonatomic) UIWindow *window;
 
 

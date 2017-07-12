@@ -7,8 +7,8 @@
 //
 
 #import "IndoorViewController.h"
-#define FloorPlanId  @"4b9046f3-575b-4f7a-a30d-a501c6a9f69a"
-#define Location ID  @"c18ef7fe-b6af-4711-909b-f734be3fd4c7"
+#define FloorPlanId  @"9e1b59f1-8436-463a-8f8c-b1b8c3aef7f9"
+#define Location ID  @"b103297f-1be8-4944-8748-ebdfaa9f8a05"
 #define kAPIKey @"af69986c-d43a-4024-a24b-affaff93903c"
 #define kAPISecret @"eGOBegooo7fYsis8sK0iKGsrrlYqpPGFhtwQuXZxLmvZKE3WAcTrXNxXQanw3US6MY1QQint4ZMRi5yokdEJFrcrt+AQwHxN5jBZXj6zGZUeAuj/TiOvxBpoQ2+qdw=="
 @interface MapOverlay : NSObject <MKOverlay>
